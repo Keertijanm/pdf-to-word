@@ -4,7 +4,7 @@
 
 ## Sample screenshot
 
-<!-- ![Screenshot](/public/screenshot.PNG?raw=true "Screenshot") -->
+![Screenshot](/public/screenshot.PNG?raw=true "Screenshot")
 
 ## Getting started
 
