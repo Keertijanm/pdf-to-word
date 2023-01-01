@@ -94,7 +94,7 @@ const Home: FC<HomeProps> = ({API_END_POINT}) : ReactElement => {
   return (
     <div className={styles.wrapper}>
       <Head>
-        <title>Chuusa</title>
+        <title>Keerti Gupta</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
